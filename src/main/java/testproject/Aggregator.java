@@ -1,8 +1,8 @@
 package testproject;
 
-/** Class that aggregates a lot of values into one summ */
+/** Class that aggregates a lot of values into one sum */
 class Aggregator {
-    private double sum = 0;
+    private double sum = 1;
 
     /**
      * Add a value to the aggregated number.
